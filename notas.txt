@@ -1,0 +1,17 @@
+
+
+
+se le solicita al aspirante la contrsción de un formulario con las siguientes caracteristicas
+
+nombre y apellido
+aspoiracion salaria
+correo electronico
+genero
+cargo a ocupar 
+
+( entre los cargos dispibibles van a tener desarrollador, gerente de proyecto, lider administrativo, conductor, otros
+en caso dado que se selecione la opcción otro este debe habilitar otro campo que lñe permita al usuario escribir el cargo,
+al dar click en boton guardar este debe almacenar en un objeto tipi jeison dentro de una lista: como en el tablero
+y debera vaciar el formulario para un nuevo registo restriciones todos los campos deben ser obligatorios si el genero, 
+es masculino el boton para subir la informacion debe ser azul, si el genero es femenino debe ser de color rosa)
+
